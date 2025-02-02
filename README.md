@@ -54,5 +54,3 @@ This project focuses on predicting car prices based on various features such as 
 
 ---
 ### 🏆 Author: Nassim BENCHIKH
-✅ **GitHub:** [Your Profile Link]
-✅ **LinkedIn:** [Your Profile Link]
