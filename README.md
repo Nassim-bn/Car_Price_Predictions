@@ -46,7 +46,6 @@ This project focuses on predicting car prices based on various features such as 
  ┣ 📜 README.md  # Project documentation
 ```
 
-## 🚀 Ho
 ## 📌 Future Improvements
 - Try more complex models like **Neural Networks**.
 - Implement **Feature Selection** to reduce redundant data.
